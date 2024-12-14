@@ -95,14 +95,11 @@ Si vous souhaitez contribuer à ce projet, vous pouvez le forker et soumettre un
    ```
 5. Ouvrez une pull request pour que vos changements soient examinés.
 
-## License
-
-Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
 ## Aide et Support
 
-Si vous avez des questions ou si vous rencontrez des problèmes avec le projet, n'hésitez pas à ouvrir une **issue** sur GitHub ou à me contacter directement.
+Je suis toujours present pour les conseils d'ameliorationde ce mini projet, n'hésitez pas à ouvrir une **issue** sur GitHub ou à me contacter directement.
 
 Merci d'utiliser AHA Calculator !
