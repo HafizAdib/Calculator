@@ -19,13 +19,13 @@ Avant d'exécuter ce projet, vous devez avoir installé **Python 3.x** et la bib
 1. Clonez ce repository sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-nom-d'utilisateur/aha-calculator.git
+   git clone https://github.com/HafizAdib/Calculator.git
    ```
 
 2. Accédez au dossier du projet :
 
    ```bash
-   cd aha-calculator
+   cd Calculator
    ```
 
 3. Installez les dépendances nécessaires avec **pip** :
@@ -75,26 +75,6 @@ L'interface utilisateur est composée des éléments suivants :
 - **Boutons** : pour les chiffres, les opérations, ainsi que les boutons fonctionnels ("CE", "=").
 
 Le style visuel est simple, avec des effets de survol et d'appui pour les boutons, ce qui améliore l'expérience utilisateur.
-
-## Contribuer
-
-Si vous souhaitez contribuer à ce projet, vous pouvez le forker et soumettre une pull request. Voici les étapes pour contribuer :
-
-1. Forkez ce projet en cliquant sur le bouton "Fork" en haut à droite de la page GitHub.
-2. Créez une branche pour vos modifications :
-   ```bash
-   git checkout -b feature-nouvelle-fonctionnalité
-   ```
-3. Committez vos changements :
-   ```bash
-   git commit -am 'Ajout d\'une nouvelle fonctionnalité'
-   ```
-4. Poussez vos modifications :
-   ```bash
-   git push origin feature-nouvelle-fonctionnalité
-   ```
-5. Ouvrez une pull request pour que vos changements soient examinés.
-
 
 ---
 
